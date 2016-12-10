@@ -1,0 +1,17 @@
+Django
+MySQL-python
+argparse
+coreapi
+django-redis
+django-redis-cache
+django-rest-swagger
+djangorestframework
+itypes
+openapi-codec
+redis
+requests
+simplejson
+uritemplate
+wsgiref
+hiredis
+django-debug-toolbar
