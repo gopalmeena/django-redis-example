@@ -9,9 +9,5 @@ djangorestframework
 itypes
 openapi-codec
 redis
-requests
-simplejson
-uritemplate
-wsgiref
 hiredis
 django-debug-toolbar
